@@ -26,7 +26,7 @@ Szkolenie Indywidualne tester manualny 13.01.2022
 ## MY TEST CASE EXAMPLES FOR TVP VOD
 * [Test cases](https://drive.google.com/file/d/1oTMZ1R_x5ERRCLYMoWxUFqS1eHQHk1_5/view?usp=sharing)
 ## MY BUGS
-## MY BUGS FOR 
+## MY BUGS FOR TVP VOD
 * [po wpisaniu blednego adresu email w resecie hasla, system informuje nas ze taki uzytkownik nie istnieje](https://docs.google.com/document/d/1zgMod16LHn1mLwIAAor5LRZEzCHqkvCm/edit?usp=share_link&ouid=110845617228318514189&rtpof=true&sd=true)
 * [tryb pelnoekranowy blednie sie zalacza](https://docs.google.com/document/d/17XoS9Qy_AJ_kEGAZfyHLTBRBXS9UgEv2/edit?usp=share_link&ouid=110845617228318514189&rtpof=true&sd=true)
 * [nie dziala podwojne klikniecie](https://docs.google.com/document/d/1ZyxeZaQUynglUVWG17uE0xDraKaFqb_7/edit?usp=share_link&ouid=110845617228318514189&rtpof=true&sd=true)
@@ -53,4 +53,4 @@ Szkolenie Indywidualne tester manualny 13.01.2022
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](https://drive.google.com/file/d/1NzZbXeogAUnjGCKTJyuoSnr4IMTPQICV/view?usp=share_link)
-* [Report Excell](Link do raportu Excell](https://docs.google.com/spreadsheets/d/1drdCtOqSYRlPj-zUT7l_uYawtcm1W4_T/edit?usp=share_link&ouid=110845617228318514189&rtpof=true&sd=true)
+* [Report Excell](https://docs.google.com/spreadsheets/d/1drdCtOqSYRlPj-zUT7l_uYawtcm1W4_T/edit?usp=share_link&ouid=110845617228318514189&rtpof=true&sd=true)
